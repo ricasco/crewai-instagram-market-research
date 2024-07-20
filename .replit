@@ -1,0 +1,17 @@
+disableGuessImports = true
+disableInstallBeforeRun = true
+modules = ["python-3.10:v18-20230807-322e88b"]
+run = "poetry run instagram"
+
+[nix]
+channel = "stable-23_05"
+
+[unitTest]
+language = "python3"
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix"]
+
+[deployment]
+run = ["sh", "-c", "poetry run instagram"]
+deploymentTarget = "cloudrun"
