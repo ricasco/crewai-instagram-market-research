@@ -24,7 +24,7 @@ The CrewAI Instagram Market Research Bot is a sophisticated Python-based system 
 While specifically designed for Instagram content management, the architecture and methodologies applied in CrewAI are versatile and can be adapted to other social media platforms, marketing tasks, or any domain requiring orchestrated workflow automation and AI-driven decision-making.
 
 ## Author
-- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/riccardo-cascone-440085320/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
